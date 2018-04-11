@@ -1,1 +1,1 @@
-second file not working
+<<<<<<< .minesecond file not working=======second file working>>>>>>> .theirs
